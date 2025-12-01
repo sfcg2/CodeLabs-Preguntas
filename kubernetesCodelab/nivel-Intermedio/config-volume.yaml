@@ -6,6 +6,6 @@ data:
   index.html: |
     <html>
     <body>
-    <h1>¡Hola desde un volumen en Kubernetes!</h1>
+    <h1>¡Hola desde un volumennn en Kubernetes!</h1>
     </body>
     </html>
