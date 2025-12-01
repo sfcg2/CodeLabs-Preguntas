@@ -1,6 +1,8 @@
 # Preguntas
 
 ## ¿Qué es Attribute-Driven Design (ADD) y cuál es su propósito en el diseño de software?
+    el ADD es un metodo que ayuda a diseñar arquitecturas utlizando los atributos de calidad, el 
+    proposito de este metodo es que se implemente una arquitectura basado en lo que realmente necesita el sistema.
 
 ## ¿Cómo se relaciona ADD con Clean Architecture en el proceso de diseño de sistemas?
 ## ¿Cuáles son los pasos principales del método ADD para definir una arquitectura de software?
